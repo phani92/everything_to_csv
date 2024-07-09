@@ -3,6 +3,10 @@
 * Simple script that converts pdf or xlsx file to csv file.
 * Planned to extend it.
 
+# i2c to text
+
+* It reads I2C data from a CSV file exported by a logic analyzer and converts it into a human-readable format.
+
 ## Usage
 
 Follow these steps to get a development environment running:
